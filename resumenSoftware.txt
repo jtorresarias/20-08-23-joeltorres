@@ -1,0 +1,3 @@
+1. Explorador de internet.
+2. Editor de textos.
+3. Reproductor de audio.

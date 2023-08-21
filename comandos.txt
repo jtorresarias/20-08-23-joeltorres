@@ -1,0 +1,60 @@
+ 68  git commit
+   69  git add productos.js
+   70  git status
+   71  git commit -m "mi primer commit"
+   72  clean
+   73  cd 20-08-03-joeltorres
+   74  20-08-2023joeltorres
+   75  20-08-2023-joeltorres
+   76  cd 20-08-2023-joeltorres
+   77  git init
+   78  git config user.name "jtorresarias"
+   79  git config user.mail "jtorresmx82@gmail.com"
+   80  touch main.js
+   81  touch index.html
+   82  git status
+   83  git add .
+   84  git status
+   85  git commit -m "commit 01 de joeltorres"
+   86  git status
+   87  git remote add origin https://github.com/jtorresarias/20-08-23-joeltorres.git
+   88  git branch -M main
+   89  git push
+   90  git add .
+   91  git commit -m "commit 02 joeltorres"
+   92  git push origin main
+   93  git branch <feature>
+   94  git branch feature
+   95  git status
+   96  git checkout feature
+   97  mkdir Hadware
+   98  mkdir software
+   99  mkdir SeguridadInformatica
+  100  cd Hadware
+  101  cd Hadware
+  102  touch resumen.txt
+  103  cd..
+  104  cd ..
+  105  cd Software
+  106  touch resumen.txt
+  107  cd ..
+  108  cd SeguridadInformatica
+  109  touch resumen.txt
+  110  cd..
+  111  cd ..
+  112  git status
+  113  git add .
+  114  git status
+  115  git log
+  116  git commit -m "commit 03 de joeltorres"
+  117  git status
+  118  git push origin feature
+  119  git status
+  120  git checkout main
+  121  mv main.js resumenHadware.txt
+  122  mv index.html resumenSoftware.txt
+  123  nano resumenHadware.txt
+  124  nano resumenSoftware.txt
+  125  touch comandos.txt
+  126  history 50
+  127  history 60
